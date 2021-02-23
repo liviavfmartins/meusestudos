@@ -24,6 +24,14 @@ func main() {
 		fmt.Println("Voce é um BURRO! Dá ZERO pra ele!!!!!")
 	}
 
+
+
+
+
+
+
+
+
  	fmt.Println("Fim do Jogo!")
 	fmt.Printf("Voce fez %v pontos", pontos)
 }
